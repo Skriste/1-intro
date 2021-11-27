@@ -2,7 +2,7 @@ Sekancios uzduotys:
 
 pakeisti srifta
 spalvos
-limituoti teksto ploti
+limituoti teksto ploti (sumažinti)
 
 fonas
 paviesinti koda (Github Pages)
